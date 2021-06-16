@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WebAppJava</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="button_send">Send</string>
+    <string name="button_find">Find</string>
+    <string name="input_name_message">Input Name</string>
+    <string name="find_person_text">Find Name</string>
+    <string name="delete_person_text">Delete Name</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_view_all">View All</string>
+    <string name="button_create">Create New</string>
+    <string name="find_header">Person Info</string>
+    <string name="text_name">Name</string>
+    <string name="text_age">Age</string>
+</resources>
